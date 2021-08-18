@@ -5,9 +5,9 @@ import PortfolioPage from '../pages/PortfolioPage';
 
 function RouterJS(props) {
     return (
-        <Router>
-            <Route path="/" exact render={()=><MainPage {...props} />} />
-            <Route path="/portfolio/:id" exact render={props=><PortfolioPage {...props} />} />
+        <Router >
+            <Route path="/young/" exact render={()=><MainPage {...props} />} />
+            <Route path="/young/portfolio/:id" exact render={props=><PortfolioPage {...props} />} />
         </Router>
     );
 }

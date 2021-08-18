@@ -100,7 +100,7 @@ function Profile() {
                 <ul>
                     <li><MdMail className="icon" /><span>jye_110@naver.com</span></li>
                     <li><FaPhoneAlt className="icon"/><span>+82 10-5112-2853</span></li>
-                    <li><FaGithub className="icon" /><span><a href="https://github.com/0eun-je" target="_blank">https://github.com/0eun-je</a></span></li>
+                    <li><FaGithub className="icon" /><span><a href="https://github.com/0eun-je" target="_blank" rel="noreferrer">https://github.com/0eun-je</a></span></li>
                 </ul> 
             </Introduction>
             <PhotoBlock>

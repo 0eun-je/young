@@ -131,9 +131,6 @@ const Description = styled.div`
     }
 `;
 
-const cd = styled.div`
-`;
-
 function Project(props) {
     const { name, period, language, skill, contribution, description, functions, capturedImage } = props.projects;
 
