@@ -132,7 +132,7 @@ const Description = styled.div`
 `;
 
 function Project(props) {
-    const { name, period, language, skill, contribution, description, functions, capturedImage } = props.projects;
+    const { name, period, language, skill, contribution, description, functions, capturedImage, urlLink } = props.projects;
 
     return (
         <ProjectBlock>
@@ -186,7 +186,7 @@ function Project(props) {
                     </ul>
                 </div>
                 <div className="button-group">
-                    <div className="demo-button">Live Demo</div>
+                    <a href={urlLink}><div className="demo-button">Live Demo</div></a>
                     <Link to = "/"><div className="home-button">Home</div></Link>
                 </div>
             </Description>       

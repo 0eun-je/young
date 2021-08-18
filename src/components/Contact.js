@@ -91,7 +91,7 @@ const MailBox = styled.div`
     .name {
         width: 49%;
         height: 45px;
-        margin-right: 28px;
+        margin-right: 23px;
     }
 
     .email-address {

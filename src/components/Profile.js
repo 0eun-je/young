@@ -16,7 +16,7 @@ const ProfileBlock = styled.div`
 `;
 
 const Introduction = styled.div`
-    margin: 40px 250px 0px 0px;
+    margin: 0px 250px 0px 0px;
     color: #2B2B2B;
 
     h3 {
@@ -66,7 +66,7 @@ const Introduction = styled.div`
 `;
 
 const PhotoBlock = styled.div`
-    margin-top: 40px;
+    margin-top: 0px;
 
     .layer1 {
         padding: 20px;
@@ -81,8 +81,8 @@ const PhotoBlock = styled.div`
     }
 
     .photo {
-        width: 350px;
-        height: 350px;
+        width: 320px;
+        height: 320px;
         background: url("./profile_photo.jpg") no-repeat;
         background-size: 100% 100%;
         border-radius: 50%;
