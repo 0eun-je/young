@@ -34,7 +34,7 @@ const IllustBlock = styled.div`
     width: 540px;
     height: 450px;
     margin-right: 20px;
-    background: url(../programmer.jpg) no-repeat;
+    background: url("./programmer.jpg") no-repeat;
     background-size: 100% 100%;
 `;
 

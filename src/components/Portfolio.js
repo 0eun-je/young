@@ -150,7 +150,7 @@ function Portfolio(props) {
             <Projects>
                 <ul>
                     <li>
-                        <img src="../projects/emotion.jpg" alt="" />
+                        <img src="./projects/emotion.jpg" alt="" />
                         <Link to={{
                         pathname: '/portfolio/' + 1,
                         state: {portfolios}}}>
@@ -163,7 +163,7 @@ function Portfolio(props) {
                         </Link>
                     </li>
                     <li>
-                        <img src="../projects/covid.jpg" alt="" />
+                        <img src="./projects/covid.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 2,
                             state: {portfolios}}}>
@@ -176,7 +176,7 @@ function Portfolio(props) {
                         </Link>
                     </li>
                     <li>
-                        <img src="../projects/todolist.jpg" alt="" />
+                        <img src="./projects/todolist.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 3,
                             state: {portfolios}}}>
@@ -191,7 +191,7 @@ function Portfolio(props) {
                 </ul>
                 <ul>
                     <li>
-                        <img src="../projects/study.jpg" alt="" />
+                        <img src="./projects/study.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 4,
                             state: {portfolios}}}>
@@ -204,7 +204,7 @@ function Portfolio(props) {
                         </Link>
                     </li>
                     <li>
-                        <img src="../projects/github.jpg" alt="" />
+                        <img src="./projects/github.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 5,
                             state: {portfolios}}}>
@@ -217,7 +217,7 @@ function Portfolio(props) {
                         </Link>
                     </li>
                     <li className="khbus">
-                        <img src="../projects/bus.jpg" alt="" />
+                        <img src="./projects/bus.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 6,
                             state: {portfolios}}}>
@@ -232,7 +232,7 @@ function Portfolio(props) {
                 </ul>
                 <ul>
                     <li>
-                        <img src="../projects/crime.jpg" alt="" />
+                        <img src="./projects/crime.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 7,
                             state: {portfolios}}}>
@@ -245,7 +245,7 @@ function Portfolio(props) {
                         </Link>
                     </li>
                     <li className="allowance-book">
-                        <img src="../projects/allowance.jpg" alt="" />
+                        <img src="./projects/allowance.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 8,
                             state: {portfolios}}}>
@@ -258,7 +258,7 @@ function Portfolio(props) {
                         </Link>
                     </li>
                     <li>
-                        <img src="../projects/chatting.jpg" alt="" />
+                        <img src="./projects/chatting.jpg" alt="" />
                         <Link to={{
                             pathname: '/portfolio/' + 9,
                             state: {portfolios}}}>
