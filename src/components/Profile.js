@@ -83,7 +83,7 @@ const PhotoBlock = styled.div`
     .photo {
         width: 380px;
         height: 380px;
-        background: url("../young/static/media/profile_photo.jpg") no-repeat;
+        background: url("./profile_photo.jpg") no-repeat;
         background-size: 100% 100%;
         border-radius: 50%;
     }
