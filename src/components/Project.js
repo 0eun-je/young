@@ -186,7 +186,7 @@ function Project(props) {
                     </ul>
                 </div>
                 <div className="button-group">
-                    <a href={urlLink}><div className="demo-button">Live Demo</div></a>
+                    <a href={urlLink} target="_blank"><div className="demo-button">Live Demo</div></a>
                     <Link to = "/"><div className="home-button">Home</div></Link>
                 </div>
             </Description>       

@@ -23,7 +23,7 @@ const portfolios = [
   {
     id: 1,
     name: "감정일기",
-    urlLink: "",
+    urlLink: "https://0eun-je.github.io/emotional-diary/",
     period: "20일",
     language: "HTML, CSS, Javascript(ES6), React, Node.js",
     skill: ["• useState, useReducer를 이용한 상태 관리 및 useEffect를 통한 마운트 이벤트 관리", "• React Calendar Library를 활용한 달력 기능",
@@ -49,7 +49,7 @@ const portfolios = [
   {
     id: 3,
     name: "TODO LIST",
-    urlLink: "",
+    urlLink: "https://0eun-je.github.io/todolist/",
     period: "4일",
     language: "HTML, CSS, Javascript(ES6), React, Node.js",
     skill: ["• useState, useReducer, Context API를 이용한 상태 관리 및 useEffect를 통한 마운트 이벤트 관리", "• Props를 통해 컴포넌트에게 값 전달",
@@ -88,7 +88,7 @@ const portfolios = [
   {
     id: 6,
     name: "경희대학교 버스 App",
-    urlLink: "",
+    urlLink: "https://bigfile.mail.naver.com/bigfileupload/download?fid=ilnwKke0D6c/KotjKCYmFoU9FCYZKAUwKA2waxUZKqgZFCYwFoKwaxbXKxvlHqump6Empxv/pxK9axJCKztqMrk0FovlKrpSazKwMxEm",
     period: "3달",
     language: "Java, Android, Oracle",
     skill: ["• Java Server와 Android Client 간 TCP/IP Socket 통신", "• Google map API로 지도 상 버스 위치 표시",
@@ -101,7 +101,7 @@ const portfolios = [
   {
     id: 7,
     name: "안심귀가 App",
-    urlLink: "",
+    urlLink: "https://bigfile.mail.naver.com/bigfileupload/download?fid=i/nwKke0D6cXKotjKCYmKAEZa3YZKAUwKA2waxUZKqE9F3YwFoKwaxbXKxvlHqudKAvXpAkSpAMqFoIoaxbZK4EZKrKlKqp0FzE/aziv",
     period: "3달",
     language: "Java, Android, Oracle",
     skill: ["• 30초마다 gps로 내 위치를 전송하여 Google map에 표시", "• Open API로 근처 경찰소 위치 표시",
